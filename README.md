@@ -7,6 +7,8 @@ A ROM hack designed with vanilla Emerald in mind.
   3. This ROM does not change the events of the main story.
 
 # What is Expanded Emerald?
+Expanded Emerald is a Decomp ROM hack designed to make Pokémon Emerald the best vanilla+ ROM hack around. It contains dozens of new features, enhancements and expansions.
+
 **Expanded Content:**
   1. **Prof. Birch Research:** Each day, Prof. Birch's assistant requests a new Pokémon to be submitted. Rewards scale with Pokémon requested.
   2. **Capt. Stern's Expeditions (POST-Game):** Fund expeditions to locate the event islands tied to Legendary Pokémon.
