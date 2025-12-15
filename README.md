@@ -9,7 +9,7 @@ A ROM hack designed with vanilla Emerald in mind.
 # What is Expanded Emerald?
 Expanded Emerald is a Decomp ROM hack designed to make Pokémon Emerald the best vanilla+ ROM hack around. It contains dozens of new features, enhancements and expansions.
 
-**Expanded Content:**
+# EXPANSIONS
   1. **Prof. Birch Research:** Each day, Prof. Birch's assistant requests a new Pokémon to be submitted. Rewards scale with Pokémon requested.
   2. **Capt. Stern's Expeditions (POST-Game):** Fund expeditions to locate the event islands tied to Legendary Pokémon.
   3. **Legendary Rumors:** Each day, a Legendary is rumored to appear in specific locations.
@@ -22,7 +22,7 @@ Expanded Emerald is a Decomp ROM hack designed to make Pokémon Emerald the best
   10. **Shiny Symbols:** Each Battle Frontier Gold Symbol increases shiny odds. This stacks until 1/1024 (from 1/8192).
   11. **Pickup:** Expanded Pickup to also include a friendship table, which is rarely called instead of the RNG tables.
 
-**QoL Enhancements:**
+# QOL
   Note: These are "always ON" mechanics, not toggles available in the OPTIONS section of this document.
   1. **Bag Sorting**: Press START while in the main items pocket to sort by: NAME, TYPE, VALUE.
   2. **PC Sorting**: Press A while on the BOX NAME to sort by: DEX NO., NAME, TYPE, LEVEL, BASE STATS.
@@ -36,7 +36,7 @@ Expanded Emerald is a Decomp ROM hack designed to make Pokémon Emerald the best
   10. **Erasable HMs:** HMs can be used any number of times.
   11. **Use HMs without Learning:** Allows Pokémon to use HM in overworld if the Pokémon can learn the HM, without knowing the move if the player owns the HM and has the compatible badge.
 
-**Balance Adjustments:**
+# BALANCE
   1. **Ability - Traunt:** Allows Pokémon with Traunt to use Slack Off on Traunt turns.
   2. **Ability - Sturdy:** Allows Pokémon with Sturdy to survive any hit from Max HP.
   3. **Ability - Synchronize:** Guarantees wild Pokémon with matching Natures.
