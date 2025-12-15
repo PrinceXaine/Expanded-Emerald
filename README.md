@@ -7,18 +7,18 @@ A ROM hack designed with vanilla Emerald in mind.
   3. This ROM does not change the events of the main story.
 
 # What is Expanded Emerald?
-  1. **Expanded Content:**
-     a. **Prof. Birch Research:** Each day, Prof. Birch's assistant requests a new Pokémon to be submitted. Rewards scale with Pokémon requested.
-     b. **Capt. Stern's Expeditions (POST-Game):** Fund expeditions to locate the event islands tied to Legendary Pokémon.
-     c. **Legendary Rumors:** Each day, a Legendary is rumored to appear in specific locations.
-     d. **Expanded Outbreaks (GYM 5):** Outbreaks are fixed to occur more than once. Additionally, has a chance to make 1% encounters on routes appear in the outbreak.
-     e. **Natural Evolution:** All wild Pokémon have a chance to be replaced with their evolved counter-part. Even smaller chance for a stage 2 Pokémon instead.
-     f. **Rydel:** Utilizes the existing bike time trial on the seaside bicycle path for a chance of PROTO-BIKE.
-     g. **Fishing:** Reduces chance of 'nothing' and offers a chance of finding items.
-     h. **Rock Smash:** Reduces chance of 'nothing' and offers a chance of finding items.
-     i. **Universal Rematches:** All trainers can be rematched at any time. PokéNAV trainer teams advance when they are ready for a rematch via the Match Call system.
-     j. **Shiny Symbols:** Each Battle Frontier Gold Symbol increases shiny odds. This stacks until 1/1024 (from 1/8192).
-     k. **Pickup:** Expanded Pickup to also include a friendship table, which is rarely called instead of the RNG tables.
+**Expanded Content:**
+     1. **Prof. Birch Research:** Each day, Prof. Birch's assistant requests a new Pokémon to be submitted. Rewards scale with Pokémon requested.
+     2. **Capt. Stern's Expeditions (POST-Game):** Fund expeditions to locate the event islands tied to Legendary Pokémon.
+     3. **Legendary Rumors:** Each day, a Legendary is rumored to appear in specific locations.
+     4. **Expanded Outbreaks (GYM 5):** Outbreaks are fixed to occur more than once. Additionally, has a chance to make 1% encounters on routes appear in the outbreak.
+     5. **Natural Evolution:** All wild Pokémon have a chance to be replaced with their evolved counter-part. Even smaller chance for a stage 2 Pokémon instead.
+     6. **Rydel:** Utilizes the existing bike time trial on the seaside bicycle path for a chance of PROTO-BIKE.
+     7. **Fishing:** Reduces chance of 'nothing' and offers a chance of finding items.
+     8. **Rock Smash:** Reduces chance of 'nothing' and offers a chance of finding items.
+     9. **Universal Rematches:** All trainers can be rematched at any time. PokéNAV trainer teams advance when they are ready for a rematch via the Match Call system.
+     10. **Shiny Symbols:** Each Battle Frontier Gold Symbol increases shiny odds. This stacks until 1/1024 (from 1/8192).
+     11. **Pickup:** Expanded Pickup to also include a friendship table, which is rarely called instead of the RNG tables.
 
   3. **QoL Enhancements:**
      Note: These are "always ON" mechanics, not toggles available in the OPTIONS section of this document.
