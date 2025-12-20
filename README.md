@@ -4,9 +4,14 @@ A ROM hack designed with vanilla Emerald in mind.
 # What isn't Expanded Emerald?
   1. This ROM does not add new generational content, such as: Pokémon, abilities, moves, held items, etc.
   2. This ROM does not include the physical/special split.
+  3. Besides the intro, this game does not change the vanilla story.
 
-# What is Expanded Emerald?
-Expanded Emerald is a Decomp ROM hack designed to make Pokémon Emerald the best vanilla+ ROM hack around. It contains dozens of new features, enhancements and expansions.
+# What **is** Expanded Emerald?
+  1. Expanded Emerald is a decomp ROM hack designed to revamp the original game without changing the core experience.
+  2. Expanded Emerald contains many difficulty/nuzlocke knobs and several expansions to existing content to flesh out the game further.
+  3. Expanded Emerald offers a chance for the player to obtain any of the original 386 Pokémon in the cartridge, without trading.
+  4. Expanded Emerald also allows most of these Pokémon to be transferred LEGALLY to future generations.
+  
 
 # EXPANSIONS
   1. **Safari Zone Start**: Player catches their first Pokémon from the Safari Zone instead of getting it as a gift.
@@ -21,6 +26,9 @@ Expanded Emerald is a Decomp ROM hack designed to make Pokémon Emerald the best
   10. **Universal Rematches:** All trainers can be rematched at any time. PokéNAV trainer teams advance when they are ready for a rematch via the Match Call system.
   11. **Shiny Symbols:** Each Battle Frontier Gold Symbol increases shiny odds. This stacks until 1/1024 (from 1/8192).
   12. **Pickup:** Expanded Pickup to also include a friendship table, which is rarely called instead of the RNG tables.
+  13. **Wonder Corner** Removed TM prizes from Game Corner and instead placed 5 Wonder Pokémon that reset each day with dynamic prices determined by final stage base stats. Can contain any basic pokémon in-game.
+  14. **Wonder Egg** Located at the daycare, the Wonder Egg vendor sells the player an egg for 10,000 each day. This egg is guaranteed to have 15 IVs in each stat at minimum. Can contain any basic pokémon in-game.
+  15. **Wonder Traders** Located in several locations around Hoenn, several unique "trainers" with differing personalities will trade you Pokémon that are thematic. These are guaranteed to have at LEAST the IVs of the traded Pokémon and will also share the nature.
 
 # QOL
   Note: These are "always ON" mechanics, not toggles available in the OPTIONS section of this document.
