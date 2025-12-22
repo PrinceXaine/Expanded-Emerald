@@ -52,4 +52,36 @@ A ROM hack designed with vanilla Emerald in mind.
   4. **Move - Slack Off:** Reduced to 5 PP, 25% HP recovery.
   5. **Learning Move PP:** New moves retain current PP from previous move, or clamps current PP to new move's max PP, whichever is lower.
   6. **Premier Balls:** Adjusted to catch at 1.25x the normal rate instead of 1x.
-  7. 
+
+
+# Settings - Difficulty
+  1. Battle Style: _Set_ prevents the player from switching when an opponent's Pokemon fiants. _Switch_ allows the player to switch when an opponent's Pokemon faints.
+  2. Level Cap: _On_ prevents the player from leveling past the gym trainers of each gym & the E4. 8, 15, 22, 29, 36, 43, 50, 57, 70, 100
+  3. Wild EVs: _Off_ prevents the player from gaining effort values from all wild encounters.
+  4. Unevolved EVs: _Off_ prevents the player from gaining effort values from basic Pokemon with a stage 1 or higher evolution.
+  5. Rematch Lock: _On_ prevents the player from spamming trainers with rematches.
+  6. Economy: _'value: x'_ increases the buy price of items and decreases the sell price of items by the same amount.
+  7. Daycare Price: _'value: x'_ increases the cost of buying a Pokémon back from the daycare by the same amount.
+  8. Trainer Items: _XItems_ disables the opponent's use of heal items but allows battle items. _Off_ disables all opponent items in battle. This does not affect hold items.
+  9. EXP/Catch Scaling: Pokémon IVs and Base Stats affect EXP and catch rate. Level difference between player and opponent Pokémon affects EXP earned.
+  10. Poison Survival: _Off_ allows Pokémon to faint from poison in the overworld. _On_ prevents the Pokémon from fainting but leaves the status on the Pokémon. _On+Heal_ prevents the Pokémon from fainting and removes the status when at 1 HP.
+  11. Enhanced Wild AI: _On_ allows wild Pokémon to make intelligent decisions instead of random.
+  12. Trainer EVs: _Off_ use vanilla values. _Scale_ increases EVs depending on badge count. _Half_ places trainers at 128 EVs. _Full_ places trainers at 252 EVs.
+  13. Trainer IVs: _Off_ use vanilla values. _Scale_ increases IVs depending on badge count. _Half_ places trainers at 15 IVs. _Full_ places trainers at 31 IVs.
+  14. Trainer IV/EV: For Trainer EVs and Trainer IVs settings, _Challenge_ edits only leaders, rivals, admins, etc. _All_ edits all trainers in-game.
+  15. Gym Lock: _On_, prevents the player from leaving a gym once entered.
+  16. Gym Trainers: _On_ all trainers must be defeated before challenging the leader. _Endurance_ All trainers must be defeated consecutively, without leaving the gym.
+  17. No Heal Gym/E4: _On_ Player cannot use overworld healing items in gyms or E4.
+
+# Settings - Nuzlocke
+  1. Options Restriction: _Home_ prevents the player from accessing Difficulty/Nuzlocke settings unless they are home.
+  2. Save Restrictions: _Centers_ prevents the player from saving anywhere but at a Pokémon Center.
+  3. Item Ban: _XItems_ allows the player to use only battle items, but not healing items in trainer matches. _On_ prevents all player usage of items in trainer battles.
+  4. Permadeath: _Protect_ allows the player to retry if party gets wiped. _On_ deletes the save when wiped. In both, Pokémon are erased when less than party count after battles.
+  5. 1st Encounter: _On_ is a capture rule. Can only catch the first encounter on each location. If missed, fainted, fleeing, etc, no more chances in that location.
+  6. Species Clause: _On_ works in partnership with 1st encounter. A failsafe to prevent a captured species (or its evolution line) from counting as the 1st encounter.
+  7. No EV Gain: _On_ Overwrites other player EV settings. No EVs are gained, at all.
+  8. Disable Switch: _Once_ allows the player to swtitch out their Pokémon once per battle. _On_ disallows all switching by the player. Does not affect moves/abilities.
+  9. Roster Order: _On_ prevents the player from choosing a replacement Pokémon from their party when one faints. Instead, the next in line is automatically sent out.
+  10. Disable Running: _On_ prevents the player from using the run command to escape from battles. Abilities, moves and items are unaffected. _All_ prevents any escaping whatsoever.
+  11. Opp Battle Style: _On_ allows the opponent to switch in a replacement Pokémon when fainting a player's Pokémon.
