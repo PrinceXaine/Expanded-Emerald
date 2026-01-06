@@ -4,7 +4,7 @@ A ROM hack designed with vanilla Emerald in mind.
 # What isn't Expanded Emerald?
   1. This ROM does not add new generational content, such as: Pokémon, abilities, moves, held items, etc.
   2. This ROM does not include the physical/special split.
-  3. Besides the intro, this game does not change the vanilla story.
+  3. Apart from adding some content that takes slight liberty with the lore, the story for Emerald remains relatively untouched.
 
 # What **is** Expanded Emerald?
   1. Expanded Emerald is a decomp ROM hack designed to revamp the original game without changing the core experience.
