@@ -10,9 +10,7 @@ A ROM hack designed with vanilla Emerald in mind.
   1. Expanded Emerald is a decomp ROM hack designed to revamp the original game without changing the core experience.
   2. Expanded Emerald takes existing features, such as the Winstrate Family, and expands upon it to make it more interesting.
   3. Expanded Emerald contains many difficulty/nuzlocke knobs to allow users to customize their experience.
-  4. Expanded Emerald offers a chance for the player to obtain any of the original 386 Pokémon in the cartridge, without trading.
-  5. Expanded Emerald also allows most of these Pokémon to be transferred LEGALLY to future generations.
-  
+  4. Expanded Emerald offers a chance for the player to obtain any of the original 386 Pokémon in the cartridge, without trading.  
 
 # EXPANSIONS
   1. **Safari Zone Start**: Player catches their first Pokémon from the Safari Zone instead of getting it as a gift.
@@ -126,6 +124,7 @@ Pokémon Expanded Emerald comes with several pages of 60+ settings. These are ST
   28. Gym Lock: _On_, prevents the player from leaving a gym once entered.
   29. Gym Trainers: _On_ all trainers must be defeated before challenging the leader. _Endurance_ All trainers must be defeated consecutively, without leaving the gym.
   30. No Heal Gym/E4: _On_ Player cannot use overworld healing items in gyms or E4.
+  31. PP Scarcity: _Off_ normal PP maximums. _3/4_ = 75% PP maximums. _2/4_ = 50% PP maximums. _1/4_ = 25% PP maximums.
 
 # Settings - Nuzlocke
   1. Options Restriction: _Home_ prevents the player from accessing Difficulty/Nuzlocke settings unless they are home.
