@@ -1,5 +1,5 @@
 # Expanded-Emerald
-A ROM hack designed with vanilla Emerald in mind.
+A ROM hack designed with vanilla Emerald in mind. The goal is to expand upon elements already exist in the base game.
 
 # What isn't Expanded Emerald?
   1. This ROM does not add new generational content, such as: Pokémon, abilities, moves, held items, etc.
